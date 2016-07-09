@@ -1,6 +1,8 @@
-IoT Motor Firmware
-==================
+IoT Motor Hardware: Quad Servo
+==============================
 by OpenMYR
+
+
 
 [OpenMYR Homepage](http://www.OpenMYR.com/)
 
