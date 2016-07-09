@@ -15214,6 +15214,19 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <plain>
 <text x="353.06" y="256.54" size="1.778" layer="97">3.3 Volt Regulator</text>
 <text x="68.58" y="254" size="1.778" layer="97">ESP12E</text>
+<text x="5.08" y="2.54" size="1.778" layer="97">Project located at:
+https://github.com/OpenMYR/ESP12E.3/
+
+Copyright Christopher Adams 2016.
+Licensed under CERN OHL v.1.2 or later
+
+This documentation is distributed WITHOUT 
+ANY EXPRESS OR IMPLIED WARRANTY, 
+INCLUDING OF MERCHANTABILITY, 
+SATISFACTORY QUALITY AND FITNESS 
+FOR A PARTICULAR PURPOSE. 
+Please see the CERN OHL v.1.2 for applicable conditions</text>
+<text x="5.08" y="7.62" size="1.778" layer="97"></text>
 </plain>
 <instances>
 <instance part="VMOT2" gate="VCC" x="347.98" y="187.96"/>
@@ -15632,4 +15645,10 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
