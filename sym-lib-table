@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ESP12E.3-eagle-import)(type Legacy)(uri ${KIPRJMOD}/ESP12E.3-eagle-import.lib)(options "")(descr ""))
+)
